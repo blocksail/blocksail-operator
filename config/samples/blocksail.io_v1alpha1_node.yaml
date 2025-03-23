@@ -1,0 +1,9 @@
+apiVersion: blocksail.io/v1alpha1
+kind: Node
+metadata:
+  name: example-node
+spec:
+  blockchain: ethereum
+  network: mainnet
+  replicas: 3
+  type: validator
