@@ -1,6 +1,6 @@
-# blocksail-operator
+# blocksail-operator [WIP]
 
-blocksail-operator is a Kubernetes operator that allows users to run highly available blockchain nodes such as validators and RPC nodes for major public blockchains including Berachain, Ethereum, Cosmos, and more.
+blocksail-operator is a work-in-progress Kubernetes operator that allows users to run highly available blockchain nodes such as validators and RPC nodes for major public blockchains including Berachain, Ethereum, Cosmos, and more.
 
 ## Installation
 
